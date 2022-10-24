@@ -1,4 +1,4 @@
-# Expenses
+# Meals
 
 Este é um projeto flutter que entrega um aplicativo para consulta de receitas de refeições.
 
